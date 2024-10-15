@@ -1,6 +1,13 @@
 # EZ Quiz
 
-![Splash Screen](path/to/splash_screen.png)
+
+---
+
+## 🖥️ Application Demo
+
+https://github.com/user-attachments/assets/9b9d1fac-b132-4bc4-8357-d082dc1970d9
+
+---
 
 ## 📚 Project Overview
 **EZ Quiz** is a dynamic desktop-based software that bridges the communication gap between teachers and students, enhancing the learning process through timed quizzes, seamless result analysis, and interactive participation.
@@ -24,19 +31,6 @@ The ever-evolving education sector demands innovative tools to enhance student e
 
 ---
 
-## 🚀 Features
-
-### Teacher Panel
-- **Add, Update, or Delete Questions**
-- **Search Questions** and manage question banks.
-- View and manage **student results**.
-
-### Student Panel
-- **Login and attempt quizzes** with ease.
-- View **solutions and quiz results** instantly.
-
----
-
 ## 🔍 Process Flow
 
 ### Teacher Panel
@@ -45,34 +39,14 @@ The ever-evolving education sector demands innovative tools to enhance student e
 3. Search or view all available questions.
 4. Review and analyze student results.
 
-![Teacher Panel Flow](path/to/teacher_panel_flow.png)
+![2024-10-16](https://github.com/user-attachments/assets/025f9f36-e724-4fcd-a2ba-a7411f45001c)
 
 ### Student Panel
 1. **Login** to access the student dashboard.
 2. Select a quiz to attempt.
 3. View solutions and check results post-quiz.
 
-![Student Panel Flow](path/to/student_panel_flow.png)
-
----
-
-## 🖥️ Application Demo
-
-- **Opening the Application:** 
-    ![Opening Application](path/to/opening_app.png)
-
-- **Splash Screen:**  
-    ![Splash Screen](path/to/splash_screen.png)
-
-- **Home Page:**  
-    ![Home Page](path/to/home_page.png)
-
-- **Teacher Login:**  
-    ![Teacher Login](path/to/teacher_login.png)
-
-- **Student Login and Quiz Attempt:**  
-    ![Quiz Attempt](path/to/quiz_attempt.png)
-
+![2024-10-16 (1)](https://github.com/user-attachments/assets/8d32fc5b-bcd8-41da-a123-e21f10ff2688)
 
 ---
 
@@ -102,7 +76,7 @@ For any queries, feel free to reach out:
 
 - **Hasib Hasan**  
   *CS Student, KUET*  
-  Email: **hasib_hasan@example.com**
+  Email: **hasibhasan305@gmail.com**
 
 ---
 
